@@ -86,8 +86,8 @@
 
 **Positioning**: Proprietary Trading Firm
 
-**Scale (Own Capital)**: Securities holdings approximately **$86 billion** (Q4 2025 13F filing)
-- Note: Jane Street doesn't manage external capital; this reflects their securities market value per regulatory filings.
+**Scale (Own Capital)**: 13F securities holdings of **$500-650+ billion** (varies quarterly; Q3 2025 showed ~$657B)
+- Note: Jane Street doesn't manage external capital; these figures represent their trading positions per SEC 13F filings, not traditional AUM.
 - High/medium-frequency trading
 - ETF arbitrage and options pricing experts
 - Global liquidity provider
